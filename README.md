@@ -12,3 +12,6 @@ The objective was to build a simple weather web app that shows today's weather a
 * HTML5
 * CSS3
 * JavaScript
+
+## 
+deployed site: https://weather-app-sarah.netlify.com
